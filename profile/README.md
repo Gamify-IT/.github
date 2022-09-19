@@ -8,12 +8,12 @@ There is a progress system for the students to unlock new content.
 
 ### world
 
-![World](https://github.com/Gamify-IT/docs/tree/main/images/overworld.webp)
+![World](https://raw.githubusercontent.com/Gamify-IT/docs/main/images/overworld.webp)
 The Player (in the middle of the picture) is able to move around the World and interact with variable content.
 
 ### Lecturer Interface
 
-![Lecturer Interface](https://github.com/Gamify-IT/docs/tree/main/images/lecturer-interface.webp)
+![Lecturer Interface](https://raw.githubusercontent.com/Gamify-IT/docs/main/images/lecturer-interface.webp)
 The Lecturer has access to an interface where he can configure the worlds (for example add questions regarding the topic of the lecture)
 
 ## Repositories
