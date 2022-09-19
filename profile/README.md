@@ -4,6 +4,18 @@ Gamify-IT is a minigame platform for students. With Gamification the students ar
 A lecturer sets up the World and the minigames. He is able to add Questions about lecture content to the minigames, add hints for the students, etc.  
 There is a progress system for the students to unlock new content.
 
+## Overview
+
+### world
+
+![World](https://github.com/Gamify-IT/docs/tree/main/images/Overworld.png)
+The Player (in the middle of the picture) is able to move around the World and interact with variable content.
+
+### Lecturer Interface
+
+![Lecturer Interface](https://github.com/Gamify-IT/docs/tree/main/images/LecturerInterface.png)
+The Lecturer has access to an interface where he can configure the worlds (for example add questions regarding the topic of the lecture)
+
 ## Repositories
 
 information about all the different repositories
