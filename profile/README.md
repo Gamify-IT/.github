@@ -1,33 +1,38 @@
-# Gamify-IT Quickstart Guide
+# Gamify-IT
 
-Gamify-IT is a minigame platform for students. With Gamification the students are able to learn lecture content through variable minigames. There is a world where the student can walk through and interact with.  
-A lecturer sets up the World and the minigames. He is able to add Questions about lecture content to the minigames, add hints for the students, etc.  
-There is a progress system for the students to unlock new content.
+_Gamify-IT_ is a minigame platform for students.  
+Students are able to learn content by playing minigames.  
+Additionally, they can explore the large overworld and with interact it.  
+A lecturer configures the world and minigames.  
+They determine what questions the students are asked in a minigame, what hints to give the students (i.e. when a student talks to an NPC), … 
 
 ## Overview
 
-### world
+### World
 
 ![World](https://raw.githubusercontent.com/Gamify-IT/docs/main/images/overworld.webp)
-The Player (in the middle of the picture) is able to move around the World and interact with variable content.
+The player (in the middle of the picture) is able to move around the World and interact with customizable content.
 
 ### Lecturer Interface
 
 ![Lecturer Interface](https://raw.githubusercontent.com/Gamify-IT/docs/main/images/lecturer-interface.webp)
-The Lecturer has access to an interface where he can configure the worlds (for example add questions regarding the topic of the lecture)
+The lecturer can configure everything with the [lecturer interface](https://github.com/Gamify-IT/lecturer-interface).  
+In the future, they might also see course statistics there.
 
 ## Repositories
 
 information about all the different repositories
 
-### [Docs](https://github.com/Gamify-IT/docs)
+### Docs
 
-The Docs repository contains the documentation about the minigame platform
+The [docs repo](https://github.com/Gamify-IT/docs) contains the complete documentation.  
+We recommend <https://gamifyit-docs.readthedocs.io/en/latest/> to view the docs as it always displays the content in a visually enhanced way.
 
-### [Overworld](https://github.com/Gamify-IT/overworld)
+### Overworld
 
-The Overworld repository contains the Unity Project on which the World is build with. It contains all the Assets, Scripts, Game Logic, etc. that is needed for the World to run.
+The [overworld repo](https://github.com/Gamify-IT/overworld) contains all the assets, scripts, game logic, … to display and walk through the world.
 
-### [Overworld-Backend](https://github.com/Gamify-IT/overworld-backend)
+### Overworld Backend
 
-The Overworld-Backend repository contains the Java backend of the World. All relevant data of the World is stored in the Overworld-Backend
+The [overworld backend repo](https://github.com/Gamify-IT/overworld-backend) stores all overworld data, whether it be the content of a course or player statistics.  
+Minigame runs are stored in the backend of the respective minigame.
