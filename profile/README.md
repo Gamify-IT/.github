@@ -8,7 +8,7 @@ They determine what questions the students are asked in a minigame, what hints t
 
 ## User Manuals
 
-For an in depth explanation of each service go to the **[user manuals](https://github.com/Gamify-IT/docs/blob/main/user-manuals/README.md)**
+For an in depth explanation of each service go to the **[user manuals](https://gamifyit-docs.readthedocs.io/en/latest/user-manuals/index.html)**
 
 ## Overview
 
