@@ -6,6 +6,10 @@ Additionally, they can explore the large overworld and with interact it.
 A lecturer configures the world and minigames.  
 They determine what questions the students are asked in a minigame, what hints to give the students (i.e. when a student talks to an NPC), … 
 
+## User Manuals
+
+For an in depth explanation of each service go to the **[user manuals](https://github.com/Gamify-IT/docs/blob/main/user-manuals/README.md)**
+
 ## Overview
 
 ### World
