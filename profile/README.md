@@ -12,7 +12,7 @@ For an in depth explanation of each service go to the **[user manuals](https://g
 
 ## Installation Manuals
 
-For informations about the configuration of services go to the **[installation manuals](https://gamifyit-docs.readthedocs.io/en/latest/install-manuals/index.html)**
+To learn how to install everything, visit the **[installation manuals](https://gamifyit-docs.readthedocs.io/en/latest/install-manuals/index.html)** For a template on how to host checkout the [run config](https://github.com/Gamify-IT/run-config).
 
 ## Developer Manuals
 
@@ -118,7 +118,7 @@ The [landing page repo](https://github.com/Gamify-IT/landing-page)
 
 ### Run config
 
-The [run config repo](https://github.com/Gamify-IT/run-config)
+The [run config repo](https://github.com/Gamify-IT/run-config) contains the hosting template and a manual on how to use it. The hosting configuration used by us is also placed there.
 
 ### Story
 
