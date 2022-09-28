@@ -12,7 +12,7 @@ For an in depth explanation of each service go to the **[user manuals](https://g
 
 ## Installation Manuals
 
-To learn how to install everything, visit the **[installation manuals](https://gamifyit-docs.readthedocs.io/en/latest/install-manuals/index.html)** For a template on how to host checkout the [run config](https://github.com/Gamify-IT/run-config).
+To learn how to install everything, visit the **[installation manuals](https://gamifyit-docs.readthedocs.io/en/latest/install-manuals/index.html)**. For a template on how to host checkout the [run config](https://github.com/Gamify-IT/run-config).
 
 ## Developer Manuals
 
