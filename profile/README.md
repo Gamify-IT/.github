@@ -10,6 +10,14 @@ They determine what questions the students are asked in a minigame, what hints t
 
 For an in depth explanation of each service go to the **[user manuals](https://gamifyit-docs.readthedocs.io/en/latest/user-manuals/index.html)**
 
+## Installation Manuals
+
+For informations about the configuration of services go to the **[installation manuals](https://gamifyit-docs.readthedocs.io/en/latest/install-manuals/index.html)**
+
+## Developer Manuals
+
+Documents for Developers with a lot of knowledge about the projects can be found in the **[developer manuals](https://gamifyit-docs.readthedocs.io/en/latest/dev-manuals/index.html)**
+
 ## Overview
 
 ### World
