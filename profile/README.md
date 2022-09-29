@@ -10,6 +10,14 @@ They determine what questions the students are asked in a minigame, what hints t
 
 For an in depth explanation of each service go to the **[user manuals](https://gamifyit-docs.readthedocs.io/en/latest/user-manuals/index.html)**
 
+## Installation Manuals
+
+To learn how to install everything, visit the **[installation manuals](https://gamifyit-docs.readthedocs.io/en/latest/install-manuals/index.html)**. For a template on how to host checkout the [run config](https://github.com/Gamify-IT/run-config).
+
+## Developer Manuals
+
+Specific knowledge about services/ the architecture can be found in the **[developer manuals](https://gamifyit-docs.readthedocs.io/en/latest/dev-manuals/index.html)**.
+
 ## Overview
 
 ### World
@@ -110,7 +118,7 @@ The [landing page repo](https://github.com/Gamify-IT/landing-page)
 
 ### Run config
 
-The [run config repo](https://github.com/Gamify-IT/run-config)
+The [run config repo](https://github.com/Gamify-IT/run-config) contains the hosting template and a manual on how to use it. The hosting configuration used by us is also placed there.
 
 ### Story
 
