@@ -16,7 +16,7 @@ To learn how to install everything, visit the **[installation manuals](https://g
 
 ## Developer Manuals
 
-Documents for Developers with a lot of knowledge about the projects can be found in the **[developer manuals](https://gamifyit-docs.readthedocs.io/en/latest/dev-manuals/index.html)**
+Specific knowledge about services/ the architecture can be found in the **[developer manuals](https://gamifyit-docs.readthedocs.io/en/latest/dev-manuals/index.html)**.
 
 ## Overview
 
