@@ -95,10 +95,31 @@ This minigame is a prototype.
 
 The [git card game backend repo](https://github.com/Gamify-IT/git-card-game-backend) stores the Git Card Game data, like minigame runs.
 
+### Memory
+
+The [memory repo](https://github.com/Gamify-IT/memory) containst the Vue/Typescript Code for the minigame Website Memory.
+
+### Memory Backend
+
+The [memory backend repo](https://github.com/Gamify-IT/memory-backend) stores the Memory data, like minigame runs.
+
+### Towercrush
+
+The [towercrush repo](https://github.com/Gamify-IT/towercrush) containst the Vue/Typescript Code for the minigame Website Towercrush.
+
+### Towercrush Backend
+
+The [memory backend repo](https://github.com/Gamify-IT/towercrush-backend) stores the Towercrush data, like minigame runs.
+
+
 ### Regex Game
 
 The [regex game repo](https://github.com/Gamify-IT/regex-game) contains the Vue/Typescript Code for the minigame Website Regex Game.
 This minigame is a prototype.
+
+### Regex Game Backend
+
+The [regex game backend repo](https://github.com/Gamify-IT/regexgame-backend) stores the Regex Game data, like minigame runs.
 
 ### Actions Runner
 
