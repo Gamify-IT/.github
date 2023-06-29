@@ -1,18 +1,18 @@
 # Gamify-IT
 
 _Gamify-IT_ is a minigame platform for students.  
-Students are able to learn content by playing minigames.  
-Additionally, they can explore the large overworld and with interact it.  
+Students can learn content by playing minigames.  
+Additionally, they can explore the large overworld and interact with it.  
 A lecturer configures the world and minigames.  
-They determine what questions the students are asked in a minigame, what hints to give the students (i.e. when a student talks to an NPC), … 
+They determine what questions the students are asked in a minigame, what hints to give the students (i.e., when a student talks to an NPC), … 
 
 ## User Manuals
 
-For an in depth explanation of each service go to the **[user manuals](https://gamifyit-docs.readthedocs.io/en/latest/user-manuals/index.html)**
+For an in-depth explanation of each service, go to the **[user manuals](https://gamifyit-docs.readthedocs.io/en/latest/user-manuals/index.html)**
 
 ## Installation Manuals
 
-To learn how to install everything, visit the **[installation manuals](https://gamifyit-docs.readthedocs.io/en/latest/install-manuals/index.html)**. For a template on how to host checkout the [run config](https://github.com/Gamify-IT/run-config).
+To learn how to install everything, visit the **[installation manuals](https://gamifyit-docs.readthedocs.io/en/latest/install-manuals/index.html)**. For a template on how to host, check out the [run config](https://github.com/Gamify-IT/run-config).
 
 ## Developer Manuals
 
@@ -23,7 +23,7 @@ Specific knowledge about services/ the architecture can be found in the **[devel
 ### World
 
 ![World](https://raw.githubusercontent.com/Gamify-IT/docs/main/images/overworld.webp)
-The player (in the middle of the picture) is able to move around the World and interact with customizable content.
+The player (in the middle of the picture) can move around the World and interact with customizable content.
 
 ### Lecturer Interface
 
@@ -55,36 +55,36 @@ The [lecturer interface repo](https://github.com/Gamify-IT/lecturer-interface) c
 
 ### Chickenshock
 
-The [chickenshock repo](https://github.com/Gamify-IT/chickenshock) contains all the assets, scripts, game logic, … for the minigame Chickenshock. In Chickenshock you get asked a question and you shoot the chicken which holds the correct answer.
+The [chickenshock repo](https://github.com/Gamify-IT/chickenshock) contains all the assets, scripts, game logic, … for the minigame Chickenshock. In Chickenshock, you get asked a question and shoot the chicken, which holds the correct answer.
 
 ### Chickenshock backend
 
-The [chickenshock backend repo](https://github.com/Gamify-IT/chickenshock-backend) stores the Chickenshock data, like minigame runs.
+The [chickenshock backend repo](https://github.com/Gamify-IT/chickenshock-backend) stores the Chickenshock data, e.g., minigame runs.
 
 ### Bugfinder
 
-The [bugfinder repo](https://github.com/Gamify-IT/bugfinder) contains the Vue/Typescript Code for the minigame website Bugfinder. This minigame simulates a chat between two programmers, where the player needs to finds bugs in Java Code.
+The [bugfinder repo](https://github.com/Gamify-IT/bugfinder) contains the Vue/Typescript Code for the minigame website Bugfinder. This minigame simulates a chat between two programmers, where the player needs to find bugs in Java Code.
 
 ### Bugfinder Backend
 
-The [bugfinder backend repo](https://github.com/Gamify-IT/bugfinder-backend) stores the Bugfinder data, like minigame runs.
+The [bugfinder backend repo](https://github.com/Gamify-IT/bugfinder-backend) stores the Bugfinder data, e.g., minigame runs.
 
 ### Crosswordpuzzle
 
 The [crosswordpuzzle repo](https://github.com/Gamify-IT/crosswordpuzzle) contains the Vue/Typescript Code for the minigame website Crosswordpuzzle.
-This minigame is a simple crosswordpuzzle that is configurable.
+This minigame is a simple crossword puzzle that is configurable.
 
 ### Crosswordpuzzle Backend
 
-The [crosswordpuzzle backend repo](https://github.com/Gamify-IT/crosswordpuzzle-backend) stores the Crosswordpuzzle data, like minigame runs.
+The [crosswordpuzzle backend repo](https://github.com/Gamify-IT/crosswordpuzzle-backend) stores the Crosswordpuzzle data, e.g., minigame runs.
 
 ### Finitequiz
 
-The [finitequiz repo](https://github.com/Gamify-IT/finitequiz) contains the Vue/Typescript Code for the minigame website Finitequiz. It is a short and simple Quiz similar to many known TV Show formats.
+The [finitequiz repo](https://github.com/Gamify-IT/finitequiz) contains the Vue/Typescript Code for the minigame website Finitequiz. It is a short and straightforward quiz similar to many known TV Show formats.
 
 ### Finitequiz Backend
 
-The [finitequiz backend repo](https://github.com/Gamify-IT/finitequiz-backend) stores the Finitequiz data, like minigame runs.
+The [finitequiz backend repo](https://github.com/Gamify-IT/finitequiz-backend) stores the Finitequiz data, e.g., minigame runs.
 
 ### Git Card Game
 
@@ -93,23 +93,23 @@ This minigame is a prototype.
 
 ### Git Card Game Backend
 
-The [git card game backend repo](https://github.com/Gamify-IT/git-card-game-backend) stores the Git Card Game data, like minigame runs.
+The [git card game backend repo](https://github.com/Gamify-IT/git-card-game-backend) stores the Git Card Game data, e.g., minigame runs.
 
 ### Memory
 
-The [memory repo](https://github.com/Gamify-IT/memory) containst the Vue/Typescript Code for the minigame Website Memory.
+The [memory repo](https://github.com/Gamify-IT/memory) contains the Vue/Typescript Code for the minigame Website Memory.
 
 ### Memory Backend
 
-The [memory backend repo](https://github.com/Gamify-IT/memory-backend) stores the Memory data, like minigame runs.
+The [memory backend repo](https://github.com/Gamify-IT/memory-backend) stores the Memory data, e.g., minigame runs.
 
 ### Towercrush
 
-The [towercrush repo](https://github.com/Gamify-IT/towercrush) containst the Vue/Typescript Code for the minigame Website Towercrush.
+The [towercrush repo](https://github.com/Gamify-IT/towercrush) contains the Vue/Typescript Code for the minigame Website Towercrush.
 
 ### Towercrush Backend
 
-The [memory backend repo](https://github.com/Gamify-IT/towercrush-backend) stores the Towercrush data, like minigame runs.
+The [memory backend repo](https://github.com/Gamify-IT/towercrush-backend) stores the Towercrush data, e.g., minigame runs.
 
 
 ### Regex Game
@@ -119,7 +119,7 @@ This minigame is a prototype.
 
 ### Regex Game Backend
 
-The [regex game backend repo](https://github.com/Gamify-IT/regexgame-backend) stores the Regex Game data, like minigame runs.
+The [regex game backend repo](https://github.com/Gamify-IT/regexgame-backend) stores the Regex Game data, e.g., minigame runs.
 
 ### Actions Runner
 
@@ -131,7 +131,7 @@ The [authentification validator repo](https://github.com/Gamify-IT/authentificat
 
 ### Issues
 
-The [issues repo](https://github.com/Gamify-IT/issues) contains all the issues across the Project. Instead of opening issues in the individual repos, they are created here.
+The [issues repo](https://github.com/Gamify-IT/issues) contains all the issues across the Project. Instead of opening issues in the individual repositories, they are created here.
 
 ### Landing Page
 
@@ -139,12 +139,12 @@ The [landing page repo](https://github.com/Gamify-IT/landing-page)
 
 ### Run config
 
-The [run config repo](https://github.com/Gamify-IT/run-config) contains the hosting template and a manual on how to use it. The hosting configuration used by us is also placed there.
+The [run config repo](https://github.com/Gamify-IT/run-config) contains the hosting template and a manual on using it. The hosting configuration used by us is also placed there.
 
 ### Story
 
-The [story repo](https://github.com/Gamify-IT/story) contains brainstorming and ideas about a story for the overworld. It is currently unfinished since we put the focus on polishing the Game more.
+The [story repo](https://github.com/Gamify-IT/story) contains brainstorming and ideas about a story for the overworld. It is currently unfinished since we put the focus on polishing the game more.
 
-### Third Party License Notice
+### Third-Party License Notice
 
-The [third party license notice repo](https://github.com/Gamify-IT/third-party-license-notice) contains the code of the Website that displays all the Third Party Licenses.
+The [third party license notice repo](https://github.com/Gamify-IT/third-party-license-notice) contains the website's code that displays all the Third Party Licenses.
