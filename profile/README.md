@@ -109,11 +109,15 @@ The [towercrush repo](https://github.com/Gamify-IT/towercrush) contains the Vue/
 
 ### Towercrush Backend
 
-The [memory backend repo](https://github.com/Gamify-IT/towercrush-backend) stores the Towercrush data, e.g., minigame runs.
+The [towercrush backend repo](https://github.com/Gamify-IT/towercrush-backend) stores the Towercrush data, e.g., minigame runs.
 
 ### Tower Defense
 
 The [tower defense](https://github.com/Gamify-IT/TowerDefense) contains all the assets, scripts, game logic, … for the minigame Tower Defense. 
+
+### Tower Defense Backend
+
+The [tower defense backend repo](https://github.com/Gamify-IT/towerdefense-backend) stores the Tower Defense data, e.g., minigame runs.
 
 ### Regex Game
 
