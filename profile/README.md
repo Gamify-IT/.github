@@ -51,7 +51,7 @@ Minigame runs are stored in the backend of the respective minigame.
 
 ### Multiplayer Server
 
-The [server](https://github.com/Gamify-IT/multiplayer-server) for the multiplayer of the overworld. It contains WebSocket server for real-time communication and a REST API for game-related requests.
+The [server for the multiplayer](https://github.com/Gamify-IT/multiplayer-server) of the overworld. It contains a WebSocket server for real-time communication and a REST API for game-related requests.
 
 ### Lecturer Interface
 
