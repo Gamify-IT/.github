@@ -49,9 +49,9 @@ The [overworld repo](https://github.com/Gamify-IT/overworld) contains all the as
 The [overworld backend repo](https://github.com/Gamify-IT/overworld-backend) stores all overworld data, whether it be the content of a course or player statistics.  
 Minigame runs are stored in the backend of the respective minigame.
 
-### Multiplayer Server
+### Multiplayer Backend
 
-The [server for the multiplayer](https://github.com/Gamify-IT/multiplayer-server) of the overworld. It contains a WebSocket server for real-time communication and a REST API for game-related requests.
+The [backend for the multiplayer](https://github.com/Gamify-IT/multiplayer-backend) of the overworld. It contains a WebSocket for real-time communication and a REST API for session-related requests.
 
 ### Lecturer Interface
 
